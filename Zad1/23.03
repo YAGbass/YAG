@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta
+            name="viewport"
+            content="width=device-width, 
+                     initial-scale=1.0"
+        />
+<!-- 👉 This is a comment -->
+<title>Page title</title>
+</head>
+<body>
+<div>
+ 
+<section>
+<div>
+<img src="strony zad4/zd2.jfif" alt="pierwsze" style="float: left">
+</div>
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique
+    sapien ac erat tincidunt, sit amet dignissim lectus vulputate. Donec id
+    iaculis velit. Aliquam vel malesuada erat. Praesent non magna ac massa
+    aliquet tincidunt vel in massa. Phasellus feugiat est vel leo finibus
+    congue.
+</p>
+</section>
+ 
+                <p>
+                  Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker
+</p>
+ 
+            </div>   
+</body>
+</html>
+ 
+ 
+ 
+ 
+<!-- <img src="../grafika/pcq.gif" width="80" height="114" alt="pcq" style="float: left">
+<div class="left">zd1</div>
+ 
+ 
+                <a href="https://puls.edu.pl/">
+ 
+                </a>
+ 
+ 
+                    <img
+                        src=
+"https://puls.edu.pl/en/sites/default/files/logo_angielskie_zielone_250x70.png"
+                        alt="Our logo"
+                    />
+<img src="img.zd1.JPG" ALIGN="LEFT" /> -->
